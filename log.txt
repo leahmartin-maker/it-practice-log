@@ -1,3 +1,7 @@
 January 2026: I have officially started my IT practice log.
 
 January 2nd 2026: I have completed all courses in the Google IT professional support Course and recieved all of my certificates. I linked them to my Linkedin account. 
+
+I have completed my first 3 IT projects. Ive learned to use Git and Github, as well as publishing those projects to my account. I created a Website through Github, i plan on coming back to this 
+on Sunday and using AI to help me create a user interface with CSS. I am very happy with all ive accomplished today and i am excited to continue. So far i like the idea of using my skills to 
+build websites, with my strong background in Art. 
