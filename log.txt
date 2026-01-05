@@ -5,3 +5,9 @@ January 2nd 2026: I have completed all courses in the Google IT professional sup
 I have completed my first 3 IT projects. Ive learned to use Git and Github, as well as publishing those projects to my account. I created a Website through Github, i plan on coming back to this 
 on Sunday and using AI to help me create a user interface with CSS. I am very happy with all ive accomplished today and i am excited to continue. So far i like the idea of using my skills to 
 build websites, with my strong background in Art. 
+
+Monday Jan 5th 2026: I did come back sunday to do more on my site. I wasnt home so i did need to learn to clone my repository to the computer i was working on. I have been using Gemini 
+to help me rewrite my resume to apply for entry level IT jobs and break into the field. I started a FREECODECAMP course on coding, and ive decided to stop being afraid of being
+underqualified and to push for what i actually want to do in life. i am an artist, and i want to continue to create things, i want to pursue the full stack dev path. i really
+enjoy the coding aspect along with the ability to create ANYTHING and make things beautiful. my specialties. Im very excited for the path ahead and im commited to learning something
+new every single day! 
